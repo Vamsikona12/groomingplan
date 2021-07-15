@@ -11,7 +11,7 @@ namespace inheritnacedemo
         public void Method1()
         {
             Console.WriteLine("Method 1 is excuted");
-            Console.WriteLine("vamsikona");
+           
         }
         public void Method2()
         {
